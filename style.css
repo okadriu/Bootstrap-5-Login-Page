@@ -1,0 +1,27 @@
+body {
+    background-color: #ed702e;
+  }
+  
+  .bg {
+    background-image: url(img/serhii-tyaglovsky-LfQE0QwltRU-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .register {
+    margin-bottom: 70px;
+  }
+  
+  .welcome {
+    margin-top: 20px;
+  }
+  
+  .container {
+    margin-top: 65px;
+  }
+  
+  .aufforderung {
+    margin-bottom: 50px;
+  }
+  
