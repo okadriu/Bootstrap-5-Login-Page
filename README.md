@@ -13,7 +13,6 @@
     <br />
     (nur für Bildungszwecke) 
     <br />
-    <br />
     <a href="https://bootstrap5login.netlify.app/">Live Demo</a>
   </p>
 </div>
